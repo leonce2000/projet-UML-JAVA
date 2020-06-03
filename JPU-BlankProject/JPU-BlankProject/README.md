@@ -1,3 +1,3 @@
 # JPU-BlankProject
 
-Programe final du projet. 
+Programme final du projet. 
